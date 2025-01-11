@@ -1,0 +1,557 @@
+{
+	"personality": [
+		"I'm willing to take responsibility for my actions",
+		"If I tell someone I can meet at a certain time, I have made a promise",
+		"Other people could believe my promise",
+		"I clean up the table to make it as easy as possible for a waiter/waitress",
+		"I can apologize to another, and accept forgiveness when someone offers that",
+		"I help people with stuff without being asked for help",
+		"I want me and my partner listen to each other when our opinions are different",
+		"I am open to variety of ideas and arguments",
+		"It is acceptable to break a law that is pointless as long as you accept responsibility",
+		"With regards to my career, I have the impression that I am not yet successful enough",
+		"I want to be a famous and successful person, and my partner must also be worthy of me",
+		"It is important for me and my partner to also move our careers forward",
+		"My best friend wants to introduce me to someone, I am eager to meet the person",
+		"I can make friends easily",
+		"I usually go out with my friends",
+		"My joke often makes others feel better",
+		"People never get bored when being with me",
+		"Sometimes I makes funny mistakes and make others laugh",
+		"When my partner gets sick, I will spend the whole day with him/ her",
+		"I'm quite sensitive to others' feelings",
+		"I always want to make others feel happy and more confident",
+		"Sometimes I forgoes my personal time to work on important tasks",
+		"I will not stop until I get all of my tasks accomplished",
+		"I have a lot of self-discipline",
+		"I like to get dressed up for special occasions",
+		"Sexuality is wonderful",
+		"I would rather work for myself than for a big company",
+		"I'm prepared to make some sacrifices for the sake of my relationship",
+		"I'm very competent person",
+		"A couple needs romance and affection to be happy",
+		"When I'm forced to do something I get angry",
+		"I'm able to share my worry and fear with my partner",
+		"I Make a good impression on people",
+		"It is possible to simultaneously have sexual pleasure and love",
+		"I get very annoyed when I have to wait in line",
+		"I am able to have a fulfilling emotional life",
+		"I'm rarely nervous around strangers",
+		"Topics dealing with sexuality do not embarrass me",
+		"I rarely ask for advice before making Important personal decisions",
+		"I need time before accepting someone new In my life",
+		"I am comfortable In a group setting",
+		"An exclusive relationship is sexually fulfilling for me",
+		"I become defensive when someone gives me orders",
+		"I can easily discuss my needs and expectations with my spouse",
+		"I have sophisticated taste and a flair for dressing well",
+		"I am comfortable with Intimacy and sexuality",
+		"I dress to suit myself and not my friends or family",
+		"I  want my spouse to listen lo me when my opinion differs from his",
+		"My friends think highly of me",
+		"Connecting sexually Is essential In a relationship",
+		"I dislike having to check out of my hotel room early",
+		"I am responsible for my emotional life",
+		"My Ideas are just as valid as those of other people",
+		"One of the ways I achieve fulfillment in my life is through sexuality",
+		"I do not live my life trying to please my friends and family",
+		"In an emotional relationship I can commit to meeting my partner's needs",
+		"I deserve the respect of others",
+		"Sexual fantasies can be a source of pleasure In a relationship",
+		"I  cope well in situations where the rules are unclear",
+		"I have a lot to offer on un emotional level",
+		"People enjoy themselves in my company",
+		"As people age sexuality remains important",
+		"It is acceptable to break a law that is pointless as long as you accept responsibility",
+		"Fulfilling emotional relationships contribute to maintaining balance in my life"
+	],
+	"personalityChoices": [
+		"Strongly Disagree",
+		"Disagree",
+		"Neutral",
+		"Agree",
+		"Strongly Agree"
+	],
+	"multipleQuestions": [
+		"When I have something important to express:",
+		"There is a force within that guides me and gives me energy:",
+		"In general, I consider myself a:",
+		"Strong emotions:",
+		"If I have a problem that makes me feel anxious, I tend to:",
+		"Spirituality:",
+		"When an urgent situation arises:",
+		"If I am visiting a museum with a close friend and we stop in front of a painting I like:",
+		"When I give instructions to a person with a social standing inferior to mine:",
+		"Spirituality is the search for a grounding point that occurs within ourselves:",
+		"When I have to organize a team project:",
+		"When I have to give a short public speech:",
+		"I am generally:",
+		"Spirituality enriches a couple's life:",
+		"When I decide to undertake an activity:",
+		"When I want a raise in salary:",
+		"If I want to get something:",
+		"Spirituality is important to me:",
+		"When I have a big problem to solve:",
+		"I find myself in a foreign country and I do not speak the language:",
+		"When I was a child:",
+		"In the most difficult moments, I think about a superior Being:",
+		"If a problem arises at work that has nothing to do with my department:",
+		"I think a brief discourse is better than a long speech:",
+		"When I provide information of a personal nature to someone:",
+		"Spirituality is:",
+		"When I take a decision at work:",
+		"If someone makes an unjustified comment about me:",
+		"For me, being successful in life:",
+		"If I have to work in collaboration with someone:",
+		"It is 2 o'clock in the morning, the phone rings:",
+		"Seduction is important:",
+		"One of the main goals in my life is:",
+		"I prefer:",
+		"I am in bed and suddenly realize I forgot to mail an important letter:",
+		"When I am with someone that I am close to:",
+		"Having a lot of money:",
+		"For me, leisure time is:",
+		"If I witness an accident on the street:",
+		"Tenderness is:",
+		"When I am with someone that is wealthy:",
+		"My best-friend-wants-to-introduce me-to-someone she/he likes very much:",
+		"At the end of my work day my boss makes an unjustified comment about me:",
+		"When I watch a romantic or sentimental movie, I become emotional:",
+		"If l am offered a job that doubles my salary but is not interesting:",
+		"When someone asks about me:",
+		"I am meeting my date for coffee and have been waiting for an hour:",
+		"I write love notes:",
+		"With regards to my material possessions:",
+		"I invite people to my house:",
+		"If my partner says something that offends me in front of my friends:",
+		"When someone close to me shows tenderness I am touched:",
+		"If I meet someone who is financially well off:",
+		"When a stranger enters the elevator:",
+		"After the second time I explain something and the person still does not understand:",
+		"If by chance I meet someone I once loved very much:",
+		"I see my family:",
+		"With regards to children:",
+		"I have been criticized for being intrusive:",
+		"lf I am dining at a friend's house with my partner and he/she is attracted to another guest:",
+		"Most of my activities are done:",
+		"When I am in the presence of children:",
+		"I am afraid of being alone:",
+		"When I think about «affairs» my lover has had before me:",
+		"If I have good news to announce:",
+		"When l imagine myself at 65:",
+		"For me love is:",
+		"If I have to travel for a week and my partner stays home alone:",
+		"If I am sad I feel the need to:",
+		"If having children is important to me but my partner does not want any:",
+		"If I win a trip to Europe for one person:",
+		"When my partner is away:",
+		"I am offered an interesting and lucrative job in a foreign country for 2 years but cannot bring my family:",
+		"You meet a person that you like and he/she tells you that he/she has children:",
+		"When an important decision has to be made:",
+		"If we are shopping for something my partner needs:",
+		"My opinion concerning family and work can be summed up by:",
+		"Life with kids is:",
+		"If I am living with my partner I expect:",
+		"If my partner makes a public display of jealousy:",
+		"I see my family as:",
+		"The presence of children in my life:",
+		"When I have something unpleasant to handle:",
+		"My partner expresses a desire to sleep alone:",
+		"People approach you:",
+		"You approach people:"
+	],
+	"multipleChoices": [
+		[
+			"I have trouble finding the right words",
+			"I choose every word carefully",
+			"I enjoy expressing my feelings"
+		],
+		[
+			"do not believe that affirmation",
+			"perhaps",
+			"I am convinced that affirmation is true"
+		],
+		[
+			"Not having much authority",
+			"Sometimes being authoritarian",
+			"Rather authoritarian"
+		],
+		[
+			"scarcely feel any strong emotions",
+			"Take my breath away",
+			"Cause me to speak incessantly"
+		],
+		[
+			"Keep it a secret",
+			"Confide in my best friend only after he/she insists",
+			"share it with my best friend believing it will help"
+		],
+		[
+			"May be experienced by some people",
+			"May be experienced by most people",
+			"May be experienced by everyone"
+		],
+		[
+			"I feel a little overwhelmed",
+			"quickly analyze the situation before taking action",
+			"I take immediate action"
+		],
+		[
+			"I remain silent",
+			"I ask whether he/she knows the name of the painter",
+			"express my pleasure and discuss the painting"
+		],
+		["I feel a bit guilty", "I remain distant but polite", "I remain natural"],
+		["I disagree", "I am not sure", "I agree"],
+		[
+			"I always find it difficult to get organized",
+			"I feel at ease depending on the type of relationship I have with members of the team",
+			"I feel completely at ease"
+		],
+		[
+			"I write my speech in order to read it",
+			"I practice my speech in front of the mirror",
+			"I know what I am going to say"
+		],
+		[
+			"A quiet person",
+			"A talkative person depending on who I am with",
+			"An outgoing person"
+		],
+		["I disagree", "uncertain", "Completely agree"],
+		[
+			"I normally have trouble finishing it",
+			"I finish it because l have to",
+			"I always finish what I start"
+		],
+		[
+			"wait for my boss to offer one",
+			"I take advantage of an opportunity to bring up the subject",
+			"I send my boss an email to request a raise"
+		],
+		[
+			"I wait until it is offered to me",
+			"I bring up the subject in a diverted way",
+			"I am direct"
+		],
+		["Not really", "I do not know", "Absolutely"],
+		[
+			"I feel uncomfortable so I avoid it",
+			"I feel uncomfortable but I try to solve it",
+			"I face my problem and solve it the best I can"
+		],
+		[
+			"I am distraught and try to ask for help",
+			"I try to communicate using gestures",
+			"I quickly learn some words lo be able to get by"
+		],
+		[
+			"I enjoyed reading stories by myself",
+			"I preferred listening to someone tell me a story",
+			"I liked reading stories to my friends"
+		],
+		["No", "sometimes", "Yes"],
+		[
+			"I let the members of that department figure it out",
+			"I give my opinion on the subject",
+			"I try to solve it for them"
+		],
+		["Never", "Sometimes", "Often"],
+		[
+			"The presence of a third party will prevent me from expressing myself fully",
+			"The presence of a third party is problematic for me so I ask him/her to leave",
+			"The presence of a third party does not bother me"
+		],
+		["The same as religion", "I do not know", "A personal process"],
+		[
+			"I abide by my decision whether others respect it or not",
+			"I hope that others will respect my decision",
+			"I ensure everyone abides by my decision"
+		],
+		[
+			"I am distraught but do not say a word",
+			"I react a while later",
+			"I have an immediate reaction"
+		],
+		[
+			"Does not include the financial aspect",
+			"Includes financial security",
+			"Is mainly about financial success"
+		],
+		[
+			"I see this as a problem",
+			"I will do it but it will require a big effort",
+			"I enjoy working in collaboration with others"
+		],
+		[
+			"I answer it coldly so the person knows I am annoyed",
+			"I answer the phone with concern",
+			"I take a couple of seconds to wake up before I answer"
+		],
+		[
+			"But forgotten as soon as the person shows interest",
+			"And needs to continue to keep the person interested",
+			"And continues to be important even when the relationship deepens"
+		],
+		[
+			"To have enough money to live",
+			"To have enough money to live well",
+			"To have a lot of money and live in the lap of luxury"
+		],
+		[
+			"Doing activities by myself",
+			"Playing board games with friends",
+			"Being with friends"
+		],
+		[
+			"I get angry and have trouble falling asleep",
+			"I decide to mail it tomorrow, not giving it another thought",
+			"I get dressed and go out to mail the letter"
+		],
+		[
+			"I find it difficult to be spontaneous and touch them",
+			"I will only reciprocate his/her touch",
+			"Touching him/her comes naturally"
+		],
+		[
+			"Is not important to me",
+			"Is not one of my priorities",
+			"Is very important to me and I am prepared to make sacrifices to achieve my goal"
+		],
+		[
+			"Really not something I need",
+			"Fun but nothing more",
+			"An essential part of a healthy lifestyle"
+		],
+		[
+			"It makes me nervous so I do not stop",
+			"I feel ill-at-ease but I remain at the scene of the accident",
+			"I immediately provide whatever assistance I can"
+		],
+		[
+			"Something I can very well do without",
+			"Something I could use more of",
+			"Important and essential for me"
+		],
+		[
+			"It makes no difference to me if someone is wealthy or not",
+			"It can make me feel uncomfortable but am able to put that aside and treat them like anyone else",
+			"I am impressed and I admire the person"
+		],
+		[
+			"I find an excuse to avoid meeting the person",
+			"I meet the person because my friend insists",
+			"I am eager to meet the person"
+		],
+		[
+			"When I arrive at home, I am impatient with everyone without explaining why I am in a bad mood",
+			"I become anxious and question myself",
+			"I take time to think about it and become less stressed because I realize the comment is unjustified"
+		],
+		["False", "Sometimes true", "True"],
+		[
+			"I refuse the job because being happy at work is more important to me than having a greater salary",
+			"The monetary aspect is important but I hesitate because the work is not interesting",
+			"I take the job because of the pay, regardless of conditions"
+		],
+		[
+			"I do not feel it is right and it is none of their business",
+			"I wonder what motivates them and I do not completely trust them",
+			"I figure it means they are interested in me and I am flattered by the attention"
+		],
+		[
+			"I am furious",
+			"I am worried that something bad has happened",
+			"I may have misunderstood the time so I call my date"
+		],
+		["Never", "From time to time", "Yes"],
+		[
+			"I am satisfied with what I have",
+			"I would like to have more",
+			"I have the impression that I do not yet have enough"
+		],
+		[
+			"As little as possible",
+			"From time to time but it is complicated",
+			"I often and I appreciate those moments"
+		],
+		[
+			"I become angry and say so in front of everyone",
+			"I make a face to convey that my partner has made a terrible mistake",
+			"Wait until I am alone to tell my partner"
+		],
+		["Rarely", "Sometimes", "Yes, often"],
+		[
+			"It does not have any influence on the image l have of that person",
+			"I find it interesting for that person, no more",
+			"I become more interested in that person"
+		],
+		[
+			"I do not talk or look al the person",
+			"I smile at the person",
+			"I start a conversation with the person"
+		],
+		[
+			"I become angry and say he/she does not understand thing",
+			"I explain again, but my impatience shows",
+			"I explain again, until be/she understands"
+		],
+		[
+			"I do not let my emotions show",
+			"I wail for his/her reaction before showing my feelings",
+			"I fly into his/her arms"
+		],
+		[
+			"Infrequently and l do not miss them very much",
+			"Only at special occasions",
+			"Quite often"
+		],
+		[
+			"I do not wish to have any",
+			"I could easily be happy without any",
+			"They are essential to my happiness"
+		],
+		["It has happened", "Sometimes", "Never"],
+		[
+			"The situation intrigues and amuses me",
+			"The situation makes me uncomfortable but I decide to laugh about it",
+			"I endure the situation without being able to divert the attention back to me"
+		],
+		["With friends", "With family and friends", "With family"],
+		[
+			"I do not notice them or take care of them",
+			"I smile at them",
+			"I am interested in them and I play with them"
+		],
+		["But I do not like to talk about it", "Sometime", "Never"],
+		[
+			"It makes me curious",
+			"I do not like to think about that part of their past",
+			"I become distraught"
+		],
+		[
+			"I go out with my friends to celebrate",
+			"I call a member of my family",
+			"I want to share it with the person I love"
+		],
+		[
+			"I see myself without kids and free to do what I want",
+			"I feel life would be more pleasant with children",
+			"I see myself surrounded by children and grand-children"
+		],
+		[
+			"Always being together",
+			"Sharing the same pleasures",
+			"Sharing part of life together"
+		],
+		[
+			"The possibility of his/her infidelity does not cross my mind",
+			"I think it is possible that my partner could be unfaithful but I do not dwell on it",
+			"I call every day to check up on whether he/she is faithful"
+		],
+		[
+			"Keep it to myself",
+			"Talk about it with a friend",
+			"Talk about it with my partner or a family member"
+		],
+		[
+			"It will not be an issue because I am not really sure I want children",
+			"It will become a problem for the relationship",
+			"I will probably end the relationship because I really want to become a parent"
+		],
+		[
+			"I will give up the trip because I cannot bring my partner",
+			"I will pay the supplement to bring my partner",
+			"I will travel alone though I prefer to have my partner accompany me"
+		],
+		[
+			"It is an occasion to do what I want",
+			"It is an opportunity for me to be alone with myself",
+			"I kill time awaiting my partner's return"
+		],
+		[
+			"I accept since it is only for two years",
+			"I decline without hesitation but I am a bit heartbroken",
+			"I decline without hesitation since I cannot imagine being away from my family for that long"
+		],
+		[
+			"The relationship will probably be short-lived because I do not want children in my life",
+			"I am going to adapt to the situation because I really like that person",
+			"I am quite happy because children are a wonderful part of life"
+		],
+		[
+			"I make my decision according to what others think",
+			"I consult people for information purposes",
+			"I explore the situation and make my own decision"
+		],
+		[
+			"I let my partner choose what he/she wants",
+			"I make comments and give my advice",
+			"I always decide for my partner"
+		],
+		[
+			"One must forego an ambitious career when one has kids",
+			"It is difficult to reconcile family and career",
+			"It is possible to reconcile family and career"
+		],
+		["Uninteresting", "Sort of interesting", "Very interesting"],
+		[
+			"To always let my partner pay",
+			"To own a joint account",
+			"Each of us to have separate accounts"
+		],
+		[
+			"I am surprised and think it is inappropriate",
+			"I am somewhat flattered by it",
+			"It angers me and I address the situation publicly"
+		],
+		[
+			"An obstacle",
+			"People with whom I grew up",
+			"Precious people with whom I have fun"
+		],
+		[
+			"Bothers-me",
+			"Changes my routine",
+			"Demanding but brings so much to my life"
+		],
+		[
+			"I find an excuse and send someone else in my place",
+			"I take someone with me to make it easier",
+			"I handle it alone to get it over with more quickly"
+		],
+		[
+			"I understand and am not upset",
+			"I agree to it in order to please my partner",
+			"I consider it a form of rejection and feel hurt"
+		],
+		["Never", "Rarely", "Sometimes", "Often"],
+		["Never", "Rarely", "Sometimes", "Often"]
+	],
+	"openQuestions": [
+		"Who am I at my core?",
+		"What are my values and beliefs?",
+		"What are my strengths and weaknesses?",
+		"What are my passions and interests?",
+		"How do I see myself in relation to others?",
+		"What roles do I play in different aspects of my life (e.g., as a friend, a family member, a professional)?",
+		"What are my long-term goals and aspirations?",
+		"What experiences have shaped me and influenced my identity?",
+		"How do I handle challenges and setbacks?",
+		"What brings me joy and fulfillment?",
+		"How do I perceive my role in society or the world?",
+		"How do I deal with change and adapt to new situations?",
+		"What do I believe is my purpose in life?",
+		"How do I express myself creatively?",
+		"How do I handle and process emotions?",
+		"What kind of relationships and connections do I seek with others?",
+		"What are my cultural and social influences?",
+		"How do I view success and failure?",
+		"What do I think makes me unique and different from others?",
+		"How do I want to be remembered by others?",
+		"What would be the benefits for you to be in a relationship?",
+		"What motivating factors prompt you to take action?",
+		"What are your expectations of us?",
+		"What is your love language? How do you give and receive love? How can we help?"
+	]
+}
